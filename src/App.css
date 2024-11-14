@@ -1,0 +1,11 @@
+/* src/App.css */
+.app {
+  display: grid;
+  grid-template-columns: 200px 1fr;
+  height: 100vh;
+}
+
+.contenido-principal {
+  background-color: #121212;
+  overflow-y: auto;
+}

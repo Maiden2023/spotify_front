@@ -1,0 +1,21 @@
+/* src/estilos/ListaAlbums.css */
+.lista-albums {
+  padding: 20px;
+  color: #fff;
+  background-color: #121212;
+}
+
+.album {
+  margin-bottom: 20px;
+}
+
+.album img {
+  width: 100px;
+  height: 100px;
+  border-radius: 8px;
+}
+
+.album ul {
+  list-style: none;
+  padding: 0;
+}

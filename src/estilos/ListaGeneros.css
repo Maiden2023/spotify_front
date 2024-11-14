@@ -1,0 +1,25 @@
+/* src/estilos/ListaGeneros.css */
+.lista-generos {
+    padding: 20px;
+    color: #fff;
+    background-color: #121212;
+  }
+  
+  .generos {
+    display: flex;
+    flex-wrap: wrap;
+    gap: 15px;
+  }
+  
+  .genero {
+    cursor: pointer;
+    text-align: center;
+    width: 150px;
+  }
+  
+  .genero img {
+    width: 100%;
+    height: auto;
+    border-radius: 8px;
+  }
+  

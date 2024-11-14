@@ -1,0 +1,19 @@
+/* src/estilos/BarraLateral.css */
+.barra-lateral {
+    width: 200px;
+    background-color: #000;
+    color: #fff;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .barra-lateral ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .barra-lateral li {
+    cursor: pointer;
+    margin: 15px 0;
+  }
+  
